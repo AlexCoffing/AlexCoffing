@@ -8,7 +8,7 @@
 
 </br>
 
-Soy un estudiante de ingeniería informática en **CUCEI**, que gracias a sobre analizar las cosas y a inventarme las soluciones más rebuscadas soy capaz de sobrevivir en este enorme *mundo tecnológico*.
+Soy un estudiante de **ingeniería informática** que gracias a sobre analizar las cosas y a inventarme las soluciones más rebuscadas soy capaz de sobrevivir en este enorme *mundo tecnológico*.
 
 ## Tecnologías:
 
