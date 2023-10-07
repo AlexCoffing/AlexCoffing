@@ -4,10 +4,6 @@
 
 </br>
 
-[![GitHub stats][stats-card]][github-overview-url]
-
-</br>
-
 [![Top languages][top-languages-card]][github-overview-url]
 
 </br>
@@ -36,8 +32,6 @@ Soy un estudiante de ingeniería informática en **CUCEI**, que gracias a sobre 
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brandon-d-08a698268/)
-
-[stats-card]: https://github-readme-stats.vercel.app/api?username=AlexCoffing&show_icons=true&theme=ayu-mirage
 
 [top-languages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCoffing&theme=ayu-mirage
 
