@@ -18,6 +18,8 @@ Soy un estudiante de **ingeniería informática** que gracias a sobre analizar l
 
 [![Java](https://img.shields.io/badge/java-%23FA7343.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
+Próximamente más...
+
 ## Paquetería de Office:
 
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whitelabelColor=101010)]()
@@ -25,7 +27,7 @@ Soy un estudiante de **ingeniería informática** que gracias a sobre analizar l
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)]()
 
-## Encuéntrame en:
+## Disponible también en:
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Alex_Coffing-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=101010)](https://codeforces.com/profile/Alex_Coffing)
 
