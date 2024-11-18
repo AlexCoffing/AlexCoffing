@@ -30,7 +30,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brandon-d-08a698268/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-de-3sp1n0s4/)
 
 [top-languages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCoffing&theme=ayu-mirage
 
