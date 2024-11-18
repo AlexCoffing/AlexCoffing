@@ -4,25 +4,23 @@
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexCoffing&theme=onedark-duo&locale=es&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=AlexCoffing&theme=onedark-duo&locale=es&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak"/>
+</a>
 
+</br>
 </br>
 
 Soy un estudiante de **ingeniería informática** que gracias a sobre analizar las cosas y a inventarme las soluciones más rebuscadas soy capaz de sobrevivir en este enorme *mundo tecnológico*.
 
 ## Lenguajes y Herramientas:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70">
+| Uso | Conocimientos (De Mayor a Menor) |
+|     :---:      |     :---:      |
+| `Alto` | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70">|
+| `Medio` | <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70">|
+| `Bajo` |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="70">  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">|
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="70">  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">
 
 ## Disponible también en:
 
@@ -31,7 +29,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-de-3sp1n0s4/)
-
-[top-languages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCoffing&theme=ayu-mirage
 
 [github-overview-url]: https://github.com/AlexCoffing
