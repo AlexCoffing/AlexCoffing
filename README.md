@@ -19,7 +19,7 @@ Soy un estudiante de **ingeniería informática** que gracias a sobre analizar l
 |     :---:      |     :---:      |
 | `Alto` | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70">|
 | `Medio` | <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70">|
-| `Bajo` |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="70">  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">|
+| `Bajo` |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="70">  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">|
 
 
 ## Disponible también en:
