@@ -28,6 +28,6 @@ Soy un estudiante de **ingeniería informática** que gracias a sobre analizar l
 
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-de-3sp1n0s4/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Alex-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-esp-ing/)
 
 [github-overview-url]: https://github.com/AlexCoffing
