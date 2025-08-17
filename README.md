@@ -1,6 +1,6 @@
 #  Hola, Mundo!!!                                                    <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40">
 
-### A Commun Computer Engineering Student
+### A Common Computer Engineering Student
 
 </br>
 
